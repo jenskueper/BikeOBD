@@ -1,0 +1,583 @@
+2015-11-30 02:17:13,731 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 02:17:14,154 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 02:17:17,496 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 02:17:17,919 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 02:17:22,238 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 02:17:22,661 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 02:17:28,002 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 02:17:28,539 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 02:17:13,779 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 02:17:14,203 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 02:17:17,518 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 02:17:17,940 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 02:17:22,274 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 02:17:22,697 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 02:17:28,038 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 02:17:28,461 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 04:17:13,785 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 04:17:14,208 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 04:17:17,514 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 04:17:17,936 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 04:17:22,264 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 04:17:22,687 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 04:17:28,027 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 04:17:28,451 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 04:17:13,684 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 04:17:14,108 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 04:17:17,440 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 04:17:17,863 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 04:17:22,243 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 04:17:22,665 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 04:17:28,010 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 04:17:28,433 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 04:17:13,875 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 04:17:14,278 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 04:17:17,577 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 04:17:17,980 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 04:17:22,309 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 04:17:22,711 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 04:17:28,007 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 04:17:28,409 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 04:17:13,824 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 04:17:14,248 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 04:17:17,590 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 04:17:18,013 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 04:17:22,364 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 04:17:22,786 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 04:17:28,122 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 04:17:28,563 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 11:18:47,137 - server.obd - ERROR - 02 1A 72 11 00 04 D0 1D 00 75 4F B8 32 7E 55 FF FF 89 00 03 24 8B 51 13 52 00Bad Checkdigit
+2015-11-30 11:17:14,240 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 11:21:28,253 - server.obd - ERROR - 02 1A 72 11 00 0F 7C 40 1B 2B 76 AC 37 93 64 FF FF 8B 41 03 CE C7 2E 0C 64 00Bad Checkdigit
+2015-11-30 11:23:54,433 - server.obd - ERROR - 02 1A 72 11 00 10 62 24 05 28 79 A9 39 3B 25 FF FF 89 45 01 A8 DD 2D 0C 58 00Bad Checkdigit
+2015-11-30 11:24:08,321 - server.obd - ERROR - 02 1A 72 11 00 11 01 31 10 28 79 A9 39 3C 26 FF FF 8A 47 02 F2 D5 2D 0C 58 00Bad Checkdigit
+2015-11-30 11:28:36,663 - server.obd - ERROR - 02 1A 72 11 00 0C F9 25 06 26 7B A4 3B 51 35 FF FF 8C 22 02 37 CE 2D 0C 3F 00Bad Checkdigit
+2015-11-30 11:30:21,033 - server.obd - ERROR - 02 1A 72 11 00 12 3D 35 12 27 7A A4 3B 92 63 FF FF 8A 60 03 1F D4 2D 0C 3F 00Bad Checkdigit
+2015-11-30 11:35:40,264 - server.obd - ERROR - 02 1A 72 11 00 0F F0 30 0E 28 79 A1 3C 91 63 FF FF 8E 4B 03 1D D3 2F 0C AD 00Bad Checkdigit
+2015-11-30 11:41:02,883 - server.obd - ERROR - 02 1A 72 11 00 05 1E 1D 00 19 8A 9B 3F 5F 3F FF FF 88 21 02 28 8B 2E 0C 70 00Bad Checkdigit
+2015-11-30 11:41:57,433 - server.obd - ERROR - 02 1A 72 11 00 0C 4B 27 07 1C 87 9A 3F 80 57 FF FF 8A 1F 02 76 C9 2E 0C 67 00Bad Checkdigit
+2015-11-30 11:42:40,683 - server.obd - ERROR - 02 1A 72 11 00 16 33 2F 0E 1E 84 9B 3F 42 2A FF FF 8B 5D 02 85 E5 2E 0C 67 00Bad Checkdigit
+2015-11-30 11:49:30,365 - server.obd - ERROR - 02 1A 72 11 00 1B EE 45 1F 26 7B 9C 3E 73 4D FF FF 89 76 03 37 E1 2E 0C 67 00Bad Checkdigit
+2015-11-30 11:58:38,073 - server.obd - ERROR - 02 1A 72 11 00 14 DC 1D 00 25 7C 9F 3D 1D 10 FF FF 8F 64 00 00 FF 2E 0C 80 00Bad Checkdigit
+2015-11-30 12:05:11,893 - server.obd - ERROR - 02 1A 72 11 00 12 E9 7D 4A 25 7C 9E 3D 91 62 FF FF 89 4F 06 F9 AF 2E 0C 72 00Bad Checkdigit
+2015-11-30 12:05:20,114 - server.obd - ERROR - 02 1A 72 11 00 17 54 23 04 25 7C 9F 3D 3E 27 FF FF 8B 62 01 65 F0 2E 0C 72 00Bad Checkdigit
+2015-11-30 12:05:23,824 - server.obd - ERROR - 02 1A 72 11 00 11 01 1D 00 25 7C 9E 3D 25 16 FF FF 8B 47 00 00 FF 2E 0C 72 00Bad Checkdigit
+2015-11-30 12:17:31,033 - server.obd - ERROR - 02 1A 72 11 00 11 12 70 41 26 7B 9E 3D 93 64 FF FF 8B 47 06 D7 B0 2E 0C 83 00Bad Checkdigit
+2015-11-30 12:18:29,033 - server.obd - ERROR - 02 1A 72 11 00 11 F5 1D 00 26 7B 9E 3D 20 12 FF FF 8B 4B 00 00 FF 2E 0C 83 00Bad Checkdigit
+2015-11-30 12:19:22,473 - server.obd - ERROR - 02 1A 72 11 00 0D 50 27 07 26 7B 9F 3D 5E 3E FF FF 87 38 02 58 CF 2F 0C 9C 00Bad Checkdigit
+2015-11-30 12:19:25,043 - server.obd - ERROR - 02 1A 72 11 00 0D D1 23 05 26 7B 9F 3D 62 41 FF FF 8E 3B 01 C9 D3 2F 0C 9C 00Bad Checkdigit
+2015-11-30 12:30:43,943 - server.obd - ERROR - 02 1A 72 11 00 10 EE 2C 0B 1E 84 9E 3D 87 5C FF FF 8B 2C 02 99 D9 2E 0C 69 00Bad Checkdigit
+2015-11-30 12:35:14,533 - server.obd - ERROR - 02 1A 72 11 00 0B D1 26 07 18 8D 96 41 7C 54 FF FF 8B 1E 02 85 C7 2B 0B E1 00Bad Checkdigit
+2015-11-30 12:35:49,872 - server.obd - ERROR - 02 1A 72 11 00 09 A2 22 03 1C 87 95 41 5D 3D FF FF 8E 19 02 02 BE 2B 0B E1 00Bad Checkdigit
+2015-11-30 12:36:34,262 - server.obd - ERROR - 02 1A 72 11 00 04 A5 1D 00 19 8A 92 42 5F 3F FF FF 88 00 02 54 8B 2B 0B E9 00Bad Checkdigit
+2015-11-30 12:45:25,033 - server.obd - ERROR - 02 1A 72 11 00 19 74 9B 62 22 7F 99 3F 84 59 FF FF 8C 6B 06 7E B2 2C 0C 1E 00Bad Checkdigit
+2015-11-30 12:55:51,904 - server.obd - ERROR - 02 1A 72 11 00 10 F2 2A 0A 1E 84 9A 3F 44 2C FF FF 8B 47 02 5C DA 2C 0C 00 00Bad Checkdigit
+2015-11-30 12:56:53,233 - server.obd - ERROR - 02 1A 72 11 00 11 B2 1D 00 25 7C 99 3F 19 0D FF FF 8A 3D 00 00 FF 2B 0B E8 00Bad Checkdigit
+2015-11-30 12:57:53,473 - server.obd - ERROR - 02 1A 72 11 00 17 83 3E 19 25 7C 9B 3F 6C 48 FF FF 8F 64 03 1B DD 2C 0C 1D 00Bad Checkdigit
+2015-11-30 13:03:09,234 - server.obd - ERROR - 02 1A 72 11 00 12 A1 29 09 21 80 9D 3E 68 45 FF FF 8F 3F 02 30 E0 2D 0C 3C 00Bad Checkdigit
+2015-11-30 13:09:06,923 - server.obd - ERROR - 02 1A 72 11 00 0E 74 54 2B 27 7A 9F 3D 5B 3C FF FF 8C 31 05 79 B8 2C 0C 23 00Bad Checkdigit
+2015-11-30 13:20:20,054 - server.obd - ERROR - 02 1A 72 11 00 10 8F 20 02 1F 83 9D 3E 3A 24 FF FF 8C 38 01 57 F2 2E 0C 7F 00Bad Checkdigit
+2015-11-30 13:28:16,393 - server.obd - ERROR - 02 1A 72 11 00 09 62 20 02 27 7A A0 3C 30 1D FF FF 8B 27 01 DB C5 2E 0C 7F 00Bad Checkdigit
+2015-11-30 13:29:08,703 - server.obd - ERROR - 02 1A 72 11 00 04 AE 1D 00 23 7E 9F 3D 39 23 FF FF 8C 00 02 53 8B 2C 0C 17 00Bad Checkdigit
+2015-11-30 13:31:53,023 - server.obd - ERROR - 02 1A 72 11 00 15 66 3A 16 21 80 A0 3C 71 4B FF FF 8A 5B 03 14 DB 2D 0C 4F 00Bad Checkdigit
+2015-11-30 13:37:50,653 - server.obd - ERROR - 02 1A 72 11 00 18 34 32 10 28 79 A1 3C 3C 25 FF FF 8F 66 02 90 E7 2D 0C 4F 00Bad Checkdigit
+2015-11-30 13:46:51,223 - server.obd - ERROR - 02 1A 72 11 00 11 B5 22 04 22 7F 9E 3D 3D 26 FF FF 8B 3C 01 89 E2 2C 0C 2D 00Bad Checkdigit
+2015-11-30 13:50:00,933 - server.obd - ERROR - 02 1A 72 11 00 1C 30 C8 85 26 7B 9E 3D 95 65 FF FF 8B 86 08 3E B0 2C 0C 15 00Bad Checkdigit
+2015-11-30 13:50:13,673 - server.obd - ERROR - 02 1A 72 11 00 1F F6 D6 90 25 7C 9B 3F 9A 69 FF FF 89 99 08 41 B2 2C 0C 15 00Bad Checkdigit
+2015-11-30 13:51:41,033 - server.obd - ERROR - 02 1A 72 11 00 0E F2 2C 0C 26 7B 9F 3D 6D 49 FF FF 8A 3E 03 0F D1 2C 0C 15 00Bad Checkdigit
+2015-11-30 13:54:34,393 - server.obd - ERROR - 02 1A 72 11 00 1B C0 EA A0 26 7B 9D 3E 94 64 FF FF 8E 84 08 75 AE 2C 0C 15 00Bad Checkdigit
+2015-11-30 13:17:13,593 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 13:17:14,017 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 13:18:35,815 - server.obd - ERROR - 02 1A 72 11 00 10 41 28 08 27 7A 93 42 61 40 FF FF 8B 44 02 3D D9 2F 0C A9 00Bad Checkdigit
+2015-11-30 13:22:43,406 - server.obd - ERROR - 02 1A 72 11 00 04 B6 1D 00 1C 87 96 41 6E 4A FF FF 8D 25 02 50 8B 2E 0C 91 00Bad Checkdigit
+2015-11-30 13:17:13,936 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 13:17:14,360 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 13:17:16,134 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:16,135 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:17:16,653 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:16,655 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:17:17,160 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:17,161 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:17:17,666 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:17,667 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:17:18,172 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:18,173 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:17:18,678 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:18,679 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:17:25,543 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:26,504 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:17:30,500 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:30,502 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:17:36,378 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:36,981 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:17:44,500 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:44,506 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:17:50,030 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:50,505 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:17:51,009 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:51,010 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:17:51,514 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:51,515 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:17:52,020 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:52,021 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:17:52,532 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:52,533 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:17:53,037 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:53,038 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:00,415 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:00,503 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:01,094 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:01,114 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:01,724 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:01,725 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:02,499 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:02,507 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:03,121 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:03,155 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:03,926 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:03,943 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:19,762 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:20,505 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:31,569 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:32,299 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:46,989 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:48,506 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:49,010 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:49,011 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:49,515 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:49,515 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:50,019 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:50,020 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:50,524 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:50,525 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:51,029 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:51,030 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:51,535 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:51,536 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:52,041 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:52,042 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:52,556 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:52,557 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:53,062 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:53,063 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:18:53,568 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:18:53,569 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:19:00,875 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:19:00,886 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:19:01,476 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:19:01,487 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:19:02,056 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:19:02,057 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:19:20,350 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:19:22,359 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:19:42,499 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:19:44,299 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:20:12,523 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:20:15,534 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:20:38,419 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:20:39,631 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:20:56,201 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:21:00,141 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:21:16,859 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:21:17,342 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:21:36,480 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:21:39,930 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:21:58,260 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:22:00,511 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:22:08,060 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:22:08,251 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:22:21,610 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:22:22,379 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:22:37,989 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:22:41,625 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:22:54,429 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:22:55,703 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:23:14,689 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:23:17,189 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:23:34,039 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:23:35,889 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:23:58,989 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:24:00,690 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:24:22,723 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:24:24,930 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:24:45,049 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:24:47,100 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:24:59,390 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:25:01,710 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:25:19,360 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:25:21,100 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:25:32,949 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:25:32,964 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:25:38,993 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:25:39,706 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:25:45,139 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:25:45,431 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:25:50,510 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:25:50,559 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:25:53,730 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:25:54,205 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:25:58,500 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:25:58,512 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:26:02,502 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:26:02,793 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:26:06,499 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:26:06,579 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:26:10,315 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:26:10,825 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:26:16,503 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:26:16,515 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:26:20,674 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:26:20,909 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:26:27,450 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:26:27,720 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:26:31,587 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:26:32,301 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:26:36,947 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:26:37,140 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:26:41,710 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:26:42,431 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:26:44,674 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:26:45,367 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:26:48,965 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:26:48,967 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:26:53,270 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:26:53,856 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:26:57,579 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:26:57,677 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:27:03,015 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:27:03,054 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:27:07,028 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:27:07,667 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:27:12,381 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:27:12,499 - server.obd - ERROR - Message not echoed OK. Received echo: 72 06 72 10 00 14 F0
+2015-11-30 13:27:17,579 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:27:17,684 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:27:23,890 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:27:24,605 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:27:28,528 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:27:28,541 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:27:32,579 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:27:32,884 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:27:35,330 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:27:35,500 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:27:39,531 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:27:39,579 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:27:43,431 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:27:43,770 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:27:48,418 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:27:48,520 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:27:52,514 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:27:53,201 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:27:57,268 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:27:57,688 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:28:02,656 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:28:03,239 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:28:07,900 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:28:08,161 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:28:12,584 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:28:12,676 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:28:18,012 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:28:18,033 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:28:25,028 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:28:25,513 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:28:31,289 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:28:31,872 - server.obd - ERROR - Message not echoed OK. Received echo: 72 06 72 11 00 14 F0
+2015-11-30 13:28:35,620 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:28:35,681 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:28:39,843 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:28:40,376 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:28:43,669 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:28:44,499 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:28:49,203 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:28:49,241 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:28:52,441 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:28:52,516 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:28:57,431 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:28:57,650 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:29:03,460 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:29:04,019 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:29:07,740 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:29:07,921 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:29:12,780 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:29:13,000 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:29:16,069 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:29:16,505 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:29:21,690 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:29:22,027 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:29:27,359 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:29:27,475 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:29:30,823 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:29:31,357 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:29:34,599 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:29:34,888 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:29:38,647 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:29:38,870 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:29:43,902 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:29:44,615 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:29:47,652 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:29:47,910 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:29:51,699 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:29:52,279 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:29:57,174 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:29:57,489 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:30:00,326 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:30:00,508 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:30:08,702 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:30:08,779 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:30:12,991 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:30:13,079 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:30:17,903 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:30:17,950 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:30:21,569 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:30:21,607 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:30:27,125 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:30:27,149 - server.obd - ERROR - Message not echoed OK. Received echo: 72 07 72 10 00 14 F0
+2015-11-30 13:30:30,503 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:30:30,789 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:30:35,792 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:30:35,804 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:30:43,835 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:30:44,516 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:30:49,690 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:30:49,954 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:30:56,615 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:30:56,712 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:31:01,680 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:31:01,932 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:31:10,431 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:31:10,501 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:31:14,690 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:31:15,431 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:31:19,664 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:31:20,224 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:31:23,987 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:31:24,194 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:31:28,729 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:31:28,821 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:31:32,120 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:31:32,124 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:31:36,513 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:31:36,888 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:31:45,779 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:31:45,993 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:31:48,997 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:31:49,480 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:31:56,977 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:31:57,119 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:32:03,273 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:32:04,137 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:32:10,950 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:32:11,431 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:32:15,668 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:32:16,507 - server.obd - ERROR - Message not echoed OK. Received echo: 72 07 72 10 00 14 F0
+2015-11-30 13:32:23,286 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:32:23,670 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:32:29,095 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:32:29,653 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:32:33,656 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:32:33,689 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:32:38,079 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:32:38,503 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:32:44,519 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:32:44,944 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:32:49,389 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:32:49,712 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:32:54,109 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:32:54,509 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:32:59,338 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:32:59,342 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:33:05,700 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:33:06,366 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:33:10,644 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:33:10,649 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:33:17,431 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:33:17,916 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:33:21,436 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:33:21,810 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:33:25,174 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:33:25,688 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:33:30,680 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:33:30,833 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:33:35,579 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:33:35,686 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:33:40,329 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:33:40,506 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:33:43,704 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:33:44,234 - server.obd - ERROR - Message not echoed OK. Received echo: 72 07 72 10 00 14 F0
+2015-11-30 13:33:47,843 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:33:47,990 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:33:53,682 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:33:54,239 - server.obd - ERROR - Message echoed OK but no ECU response
+2015-11-30 13:33:58,417 - server.obd - WARNING - Maximal serial_write error count reached
+2015-11-30 13:17:13,761 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 13:17:14,185 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 13:17:38,143 - server.obd - ERROR - 02 1A 72 11 00 04 A1 1D 00 26 7B A7 3A 45 2C FF FF 8D 00 02 5A 8B 31 0C FD 00Bad Checkdigit
+2015-11-30 13:18:14,622 - server.obd - ERROR - 02 1A 72 11 00 0E BD 48 21 26 7B A8 39 4F 34 FF FF 8E 46 04 48 C0 31 0D 0C 00Bad Checkdigit
+2015-11-30 13:22:19,212 - server.obd - ERROR - 02 1A 72 11 00 13 6D 37 14 28 79 A9 39 7E 55 FF FF 8B 66 03 2C D8 31 0D 0C 00Bad Checkdigit
+2015-11-30 13:22:24,082 - server.obd - ERROR - 02 1A 72 11 00 11 39 1D 00 28 79 A9 39 2E 1C FF FF 90 56 00 00 FF 31 0D 0C 00Bad Checkdigit
+2015-11-30 13:26:00,032 - server.obd - ERROR - 02 1A 72 11 00 15 ED 3D 19 27 7A A9 39 3F 28 FF FF 8F 68 03 1E DB 30 0C F2 00Bad Checkdigit
+2015-11-30 13:33:28,292 - server.obd - ERROR - 02 1A 72 11 00 18 55 6B 3C 26 7B A4 3B 5A 3B FF FF 8B 75 05 12 BD 2C 0C 2E 00Bad Checkdigit
+2015-11-30 13:40:33,422 - server.obd - ERROR - 02 1A 72 11 00 13 8D 71 41 26 7B A8 39 65 43 FF FF 8B 42 05 FC B3 2C 0C 2E 00Bad Checkdigit
+2015-11-30 13:42:54,043 - server.obd - ERROR - 02 1A 72 11 00 14 76 2D 0C 26 7B A8 39 3F 28 FF FF 89 62 02 78 E2 2D 0C 37 00Bad Checkdigit
+2015-11-30 13:45:21,352 - server.obd - ERROR - 02 1A 72 11 00 13 1A 39 15 27 7A A6 3A 8F 61 FF FF 8B 5B 03 14 D6 2E 0C 6A 00Bad Checkdigit
+2015-11-30 13:55:34,792 - server.obd - ERROR - 02 1A 72 11 00 11 1F 25 06 27 7A A9 39 36 22 FF FF 89 52 01 CF DE 2E 0C 6A 00Bad Checkdigit
+2015-11-30 13:56:38,422 - server.obd - ERROR - 02 1A 72 11 00 15 7E 23 04 26 7B A8 39 23 14 FF FF 8A 5B 01 61 EC 2E 0C 83 00Bad Checkdigit
+2015-11-30 13:57:22,822 - server.obd - ERROR - 02 1A 72 11 00 19 4B 3C 18 26 7B A8 39 5D 3E FF FF 8B 6B 02 F6 E3 2E 0C 83 00Bad Checkdigit
+2015-11-30 14:00:52,023 - server.obd - ERROR - 02 1A 72 11 00 0B F5 23 04 23 7E A8 39 55 38 FF FF 88 1F 01 FE CA 2E 0C 83 00Bad Checkdigit
+2015-11-30 14:04:27,212 - server.obd - ERROR - 02 1A 72 11 00 11 A4 2E 0D 26 7B A7 3A 7C 53 FF FF 8B 4A 02 C7 DA 2E 0C 70 00Bad Checkdigit
+2015-11-30 14:04:51,242 - server.obd - ERROR - 02 1A 72 11 00 13 66 29 09 27 7A A8 39 60 40 FF FF 8B 51 02 2B E3 2E 0C 70 00Bad Checkdigit
+2015-11-30 14:10:02,272 - server.obd - ERROR - 02 1A 72 11 00 04 BA 1D 00 1D 85 A5 3A 41 29 FF FF 8E 00 02 4A 8B 2C 0C 00 00Bad Checkdigit
+2015-11-30 14:10:09,382 - server.obd - ERROR - 02 1A 72 11 00 04 A4 1D 00 1D 85 A5 3A 62 41 FF FF 89 00 02 4B 8B 2B 0B E3 00Bad Checkdigit
+2015-11-30 14:18:06,982 - server.obd - ERROR - 02 1A 72 11 00 0E 1F 22 03 25 7C A5 3A 3C 26 FF FF 8D 3B 01 95 D5 2A 0B C7 00Bad Checkdigit
+2015-11-30 14:18:11,802 - server.obd - ERROR - 02 1A 72 11 00 0F C1 42 1C 24 7C A6 3A 94 65 FF FF 89 42 04 2A C7 2A 0B C7 00Bad Checkdigit
+2015-11-30 14:18:59,632 - server.obd - ERROR - 02 1A 72 11 00 10 12 28 08 24 7C A6 3A 63 41 FF FF 8C 44 02 46 D9 2A 0B C7 00Bad Checkdigit
+2015-11-30 14:22:00,902 - server.obd - ERROR - 02 1A 72 11 00 11 EF 23 04 19 8A A3 3B 25 15 FF FF 8D 2E 01 97 E3 2C 0C 13 00Bad Checkdigit
+2015-11-30 14:35:56,732 - server.obd - ERROR - 02 1A 72 11 00 10 E2 1E 00 28 79 A9 39 23 14 FF FF 8A 47 01 27 FF 2E 0C 67 00Bad Checkdigit
+2015-11-30 14:39:48,872 - server.obd - ERROR - 02 1A 72 11 00 18 1D 47 20 27 7A A9 39 94 65 FF FF 8A 73 03 D1 D9 2E 0C 67 00Bad Checkdigit
+2015-11-30 14:50:48,432 - server.obd - ERROR - 02 1A 72 11 00 19 69 74 44 23 7E AB 38 6D 49 FF FF 8E 7A 05 77 BB 2E 0C 76 00Bad Checkdigit
+2015-11-30 15:06:15,922 - server.obd - ERROR - 02 1A 72 11 00 18 16 BE 7D 27 7A AC 37 85 5A FF FF 8B 73 08 31 B0 2E 0C 76 00Bad Checkdigit
+2015-11-30 15:07:36,502 - server.obd - ERROR - 02 1A 72 11 00 13 8A 2C 0C 24 7C AC 37 64 42 FF FF 8A 52 02 89 E0 2B 0B E8 00Bad Checkdigit
+                                                                                                                                                                                                         2015-11-30 15:17:13,740 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 15:17:14,165 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 15:21:28,745 - server.obd - ERROR - 02 1A 72 11 00 04 A5 1D 00 21 80 9F 3D 34 20 FF FF 8B 00 02 56 8B 2C 0C 26 00Bad Checkdigit
+2015-11-30 15:17:13,798 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 15:17:14,223 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 15:17:38,360 - server.obd - ERROR - 02 1A 72 11 00 04 B6 1D 00 1D 85 99 3F 41 2A FF FF 8E 00 02 4A 8B 2C 0C 0A 00Bad Checkdigit
+2015-11-30 15:19:29,200 - server.obd - ERROR - 02 1A 72 11 00 08 B0 22 04 19 8A 97 40 3A 24 FF FF 8E 0E 02 29 B8 2B 0B F8 00Bad Checkdigit
+2015-11-30 15:20:38,450 - server.obd - ERROR - 02 1A 72 11 00 11 3E 21 02 1E 84 99 3F 33 1F FF FF 89 3B 01 67 E2 2B 0B E1 00Bad Checkdigit
+2015-11-30 15:17:13,749 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 15:17:14,176 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 15:17:13,697 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 15:17:14,122 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+                                                                                                                                                                                                         2015-11-30 15:17:13,737 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 15:17:14,164 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 15:17:13,813 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 15:17:14,240 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 15:18:09,965 - server.obd - ERROR - 02 1A 72 11 00 04 D1 1D 00 52 5D A6 3A 63 42 FF FF 8C 00 02 B4 8B 3D 10 23 00Bad Checkdigit
+2015-11-30 15:28:56,686 - server.obd - ERROR - 02 1A 72 11 00 0D A5 36 13 29 78 AC 37 7E 55 FF FF 8D 3A 03 2E C7 2C 0C 1A 00Bad Checkdigit
+2015-11-30 15:38:09,655 - server.obd - ERROR - 02 1A 72 11 00 09 F6 20 02 29 78 A8 39 32 1F FF FF 8F 1B 01 AC C6 2C 0C 1A 00Bad Checkdigit
+2015-11-30 15:17:13,704 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 15:17:14,131 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 15:19:27,261 - server.obd - ERROR - 02 1A 72 11 00 0B 42 27 07 32 70 AD 37 41 2A FF FF 8B 1D 02 A4 C4 34 0D A4 00Bad Checkdigit
+2015-11-30 15:26:55,451 - server.obd - ERROR - 02 1A 72 11 00 0E 01 25 06 29 78 AB 38 64 42 FF FF 8E 24 02 27 D2 2C 0C 1A 00Bad Checkdigit
+                                                                                                                                                                                                         2015-11-30 15:17:13,767 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 15:17:14,193 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 15:17:13,627 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 15:17:14,051 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 15:20:24,469 - server.obd - ERROR - 02 1A 72 11 00 04 B8 1D 00 38 6C B6 33 69 46 FF FF 8A 00 02 7E 8B 3B 0F 6F 00Bad Checkdigit
+2015-11-30 15:17:13,764 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 15:17:14,190 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 15:19:12,344 - server.obd - ERROR - 02 1A 72 11 00 08 E0 1F 01 27 7A A8 39 2B 1A FF FF 8D 17 01 BE C6 2D 0C 32 00Bad Checkdigit
+2015-11-30 15:27:34,814 - server.obd - ERROR - 02 1A 72 11 00 04 B3 1D 00 26 7B A3 3B 6B 47 FF FF 8E 00 02 43 8B 2F 0C C5 00Bad Checkdigit
+2015-11-30 15:28:55,403 - server.obd - ERROR - 02 1A 72 11 00 0C F3 23 04 24 7C A4 3B 3B 25 FF FF 88 37 01 CB CF 30 0C C8 00Bad Checkdigit
+2015-11-30 15:41:05,033 - server.obd - ERROR - 02 1A 72 11 00 0B D4 24 05 24 7C A4 3B 4E 33 FF FF 8C 1F 02 10 C9 2F 0C 9A 00Bad Checkdigit
+2015-11-30 15:45:06,194 - server.obd - ERROR - 02 1A 72 11 00 18 4E 66 38 27 7A A3 3B 78 50 FF FF 8A 74 04 BF C0 2D 0C 5E 00Bad Checkdigit
+2015-11-30 15:50:05,184 - server.obd - ERROR - 02 1A 72 11 00 0E 7E 33 11 27 7A A5 3A 8F 61 FF FF 8C 45 02 ED CC 2D 0C 5E 00Bad Checkdigit
+2015-11-30 15:51:52,913 - server.obd - ERROR - 02 1A 72 11 00 0C 0A 69 3B 28 79 A5 3A 85 5A FF FF 8F 32 06 4B A1 2D 0C 5E 00Bad Checkdigit
+2015-11-30 15:55:32,643 - server.obd - ERROR - 02 1A 72 11 00 13 4D 32 10 27 7A A7 3A 80 56 FF FF 8B 5B 03 0E DB 2D 0C 5E 00Bad Checkdigit
+2015-11-30 15:59:47,063 - server.obd - ERROR - 02 1A 72 11 00 10 18 1D 00 25 7C A6 3A 2E 1C FF FF 8A 37 00 00 FB 2D 0C 5E 00Bad Checkdigit
+2015-11-30 16:02:40,424 - server.obd - ERROR - 02 1A 72 11 00 19 E7 A9 6D 26 7B A4 3B 92 63 FF FF 8C 6D 07 78 B1 2E 0C 75 00Bad Checkdigit
+2015-11-30 16:03:30,475 - server.obd - ERROR - 02 1A 72 11 00 12 7E 21 03 27 7A A5 3A 40 29 FF FF 8E 4E 01 55 E5 2E 0C 75 00Bad Checkdigit
+2015-11-30 15:17:13,621 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 15:17:14,046 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 15:23:37,239 - server.obd - ERROR - 02 1A 72 11 00 10 5B 32 10 25 7C A2 3C 47 2D FF FF 89 45 03 3D D3 2F 0C A7 00Bad Checkdigit
+2015-11-30 15:30:17,940 - server.obd - ERROR - 02 1A 72 11 00 14 B2 2C 0B 26 7B A3 3B 7A 52 FF FF 8D 47 02 69 E3 2F 0C BE 00Bad Checkdigit
+2015-11-30 15:41:38,018 - server.obd - ERROR - 02 1A 72 11 00 1C 54 9F 65 26 7B 9F 3D 92 64 FF FF 8B 95 06 DD B5 2E 0C 8A 00Bad Checkdigit
+2015-11-30 15:48:35,648 - server.obd - ERROR - 02 1A 72 11 00 14 C0 29 09 26 7B A5 3A 51 34 FF FF 8F 47 02 01 E6 2D 0C 60 00Bad Checkdigit
+2015-11-30 15:49:44,929 - server.obd - ERROR - 02 1A 72 11 00 0F 7F 30 0E 27 7A A3 3B 8F 61 FF FF 8E 52 02 DB D2 2D 0C 60 00Bad Checkdigit
+2015-11-30 15:55:13,249 - server.obd - ERROR - 02 1A 72 11 00 12 58 31 10 27 7A A5 3A 88 5C FF FF 8D 4D 02 ED D9 2E 0C 78 00Bad Checkdigit
+2015-11-30 15:56:54,189 - server.obd - ERROR - 02 1A 72 11 00 0C 72 21 03 24 7C A5 3A 38 23 FF FF 88 2A 01 B5 CD 2E 0C 78 00Bad Checkdigit
+2015-11-30 16:07:20,869 - server.obd - ERROR - 02 1A 72 11 00 16 1D 27 07 20 82 A5 3A 2B 1A FF FF 8D 4B 01 DC EA 2E 0C 63 00Bad Checkdigit
+2015-11-30 16:13:24,179 - server.obd - ERROR - 02 1A 72 11 00 12 4E 36 13 1D 85 A0 3C 42 2A FF FF 8B 4D 02 F4 D6 2B 0B F6 00Bad Checkdigit
+2015-11-30 16:21:53,538 - server.obd - ERROR - 02 1A 72 11 00 18 1A 2C 0C 27 7A A5 3A 3A 24 FF FF 87 65 02 16 EB 2B 0B F6 00Bad Checkdigit
+2015-11-30 16:24:14,129 - server.obd - ERROR - 02 1A 72 11 00 10 5B 1F 01 28 79 A5 3A 21 12 FF FF 88 45 01 4E F5 2B 0B DE 00Bad Checkdigit
+2015-11-30 16:24:29,129 - server.obd - ERROR - 02 1A 72 11 00 0A 79 1E 00 28 79 A4 3B 26 16 FF FF 8C 2C 01 60 D9 2B 0B DE 00Bad Checkdigit
+2015-11-30 16:17:13,829 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 16:17:14,253 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 16:19:00,899 - server.obd - ERROR - 02 1A 72 11 00 04 AD 1D 00 20 82 9B 3F 62 41 FF FF 88 00 02 44 8B 30 0C E1 00Bad Checkdigit
+2015-11-30 16:26:33,249 - server.obd - ERROR - 02 1A 72 11 00 1A FC 32 10 22 7F A6 3A 69 46 FF FF 89 46 02 85 EC 2D 0C 60 00Bad Checkdigit
+2015-11-30 16:28:51,589 - server.obd - ERROR - 02 1A 72 11 00 1D D8 EA A0 26 7B A3 3B 82 58 FF FF 8F 8D 08 37 AF 2D 0C 48 00Bad Checkdigit
+2015-11-30 16:42:12,549 - server.obd - ERROR - 02 1A 72 11 00 0F 2B 1D 00 17 8F 9C 3E 2B 19 FF FF 8B 28 01 38 E4 2D 0C 3F 00Bad Checkdigit
+2015-11-30 16:42:52,409 - server.obd - ERROR - 02 1A 72 11 00 0F 96 35 13 1B 88 9A 3F 82 58 FF FF 88 28 03 27 CE 2D 0C 3F 00Bad Checkdigit
+2015-11-30 16:17:16,470 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 16:24:25,217 - server.obd - ERROR - 02 1A 72 11 00 0D 0F 2E 0D 27 7A BD 30 55 38 FF FF 8B 37 02 D0 C9 2D 0C 5B 00Bad Checkdigit
+2015-11-30 16:17:13,840 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 16:17:14,267 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 16:20:37,222 - server.obd - ERROR - 02 1A 72 11 00 10 E1 1F 01 26 7B AE 37 33 20 FF FF 8A 3A 01 41 F7 2D 0C 43 00Bad Checkdigit
+2015-11-30 16:28:59,602 - server.obd - ERROR - 02 1A 72 11 00 04 A7 1D 00 22 7F A6 3A 75 4F FF FF 8C 00 02 4D 8B 2F 0C B5 00Bad Checkdigit
+2015-11-30 16:36:12,964 - server.obd - ERROR - 02 1A 72 11 00 16 19 4F 27 27 7A A3 3B 91 63 FF FF 8D 5D 03 E4 CC 2E 0C 74 00Bad Checkdigit
+2015-11-30 16:44:19,463 - server.obd - ERROR - 02 1A 72 11 00 14 2B 2F 0E 22 7F A5 3A 3F 28 FF FF 88 55 02 9C E0 2E 0C 6B 00Bad Checkdigit
+2015-11-30 16:51:48,692 - server.obd - ERROR - 02 1A 72 11 00 15 9B 30 0E 23 7E A6 3A 84 59 FF FF 8E 5C 02 88 E3 2E 0C 86 00Bad Checkdigit
+2015-11-30 16:56:16,972 - server.obd - ERROR - 02 1A 72 11 00 13 77 5B 30 27 7A A6 3A 91 63 FF FF 8D 5C 05 6C BF 2E 0C 86 00Bad Checkdigit
+2015-11-30 17:01:02,292 - server.obd - ERROR - 02 1A 72 11 00 18 8C 8B 56 28 79 A8 39 8F 61 FF FF 8C 53 06 16 B1 2E 0C 86 00Bad Checkdigit
+2015-11-30 17:03:36,343 - server.obd - ERROR - 02 1A 72 11 00 0D 3B 2C 0C 1D 85 A6 3A 43 2B FF FF 8C 1E 02 BF CB 2E 0C 83 00Bad Checkdigit
+2015-11-30 17:03:59,272 - server.obd - ERROR - 02 1A 72 11 00 14 FE A6 6B 1C 87 A7 3A 8F 61 FF FF 8A 35 07 9C AD 2E 0C 83 00Bad Checkdigit
+2015-11-30 17:07:01,642 - server.obd - ERROR - 02 1A 72 11 00 10 61 42 1C 24 7C A5 3A 91 62 FF FF 8A 45 04 26 C9 2C 0C 28 00Bad Checkdigit
+2015-11-30 17:17:13,543 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 17:17:13,967 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 17:21:36,083 - server.obd - ERROR - 02 1A 72 11 00 13 0C 41 1C 1F 83 9C 3E 46 2D FF FF 89 41 03 80 D0 2F 0C A0 00Bad Checkdigit
+2015-11-30 17:23:43,013 - server.obd - ERROR - 02 1A 72 11 00 11 14 2C 0C 28 79 A1 3C 45 2C FF FF 8C 48 02 8D D9 2F 0C A0 00Bad Checkdigit
+2015-11-30 17:24:28,554 - server.obd - ERROR - 02 1A 72 11 00 04 94 1D 00 25 7C A0 3C 3D 27 FF FF 8A 00 02 62 8B 31 0D 16 00Bad Checkdigit
+2015-11-30 17:29:28,513 - server.obd - ERROR - 02 1A 72 11 00 14 6C 1D 00 28 79 A5 3A 22 13 FF FF 8C 56 00 00 FF 30 0C F4 00Bad Checkdigit
+2015-11-30 17:43:14,414 - server.obd - ERROR - 02 1A 72 11 00 0E 28 23 04 1E 84 A4 3B 57 39 FF FF 8E 31 01 CB D4 2D 0C 5D 00Bad Checkdigit
+2015-11-30 17:46:52,684 - server.obd - ERROR - 02 1A 72 11 00 17 08 2D 0C 25 7C A7 3A 79 51 FF FF 89 62 02 42 E8 2E 0C 6E 00Bad Checkdigit
+2015-11-30 17:48:13,324 - server.obd - ERROR - 02 1A 72 11 00 14 8E 21 03 25 7C A6 3A 39 24 FF FF 8A 47 01 5A EB 2E 0C 6E 00Bad Checkdigit
+2015-11-30 17:51:10,032 - server.obd - ERROR - 02 1A 72 11 00 15 69 24 05 22 7F A6 3A 3C 25 FF FF 8A 49 01 72 EC 2E 0C 6E 00Bad Checkdigit
+2015-11-30 17:54:13,563 - server.obd - ERROR - 02 1A 72 11 00 0A 34 1D 00 1A 89 A4 3B 2A 19 FF FF 87 24 01 69 BF 2D 0C 36 00Bad Checkdigit
+2015-11-30 17:57:57,814 - server.obd - ERROR - 02 1A 72 11 00 07 B2 38 15 20 82 A1 3C 6E 4A FF FF 8D 0D 04 6D A4 2D 0C 3E 00Bad Checkdigit
+2015-11-30 18:05:40,593 - server.obd - ERROR - 02 1A 72 11 00 14 15 35 12 27 7A A7 3A 8B 5E FF FF 8C 55 03 2F DB 2D 0C 61 00Bad Checkdigit
+2015-11-30 18:06:27,233 - server.obd - ERROR - 02 1A 72 11 00 0F 15 25 06 28 79 A7 3A 46 2D FF FF 8A 3F 01 E4 D7 2D 0C 61 00Bad Checkdigit
+2015-11-30 18:10:56,653 - server.obd - ERROR - 02 1A 72 11 00 11 44 25 06 23 7E A7 3A 2E 1B FF FF 88 3B 01 C4 DF 2E 0C 77 00Bad Checkdigit
+2015-11-30 18:10:59,223 - server.obd - ERROR - 02 1A 72 11 00 0F EB 25 06 23 7E A7 3A 59 3B FF FF 8C 36 01 DA DA 2E 0C 77 00Bad Checkdigit
+2015-11-30 18:16:37,304 - server.obd - ERROR - 02 1A 72 11 00 1C 3C D8 92 26 7B A3 3B 95 65 FF FF 8A 94 08 57 AE 2F 0C C2 00Bad Checkdigit
+2015-11-30 18:18:32,975 - server.obd - ERROR - 02 1A 72 11 00 11 B6 1D 00 25 7C A3 3B 22 13 FF FF 8B 5E 00 00 FF 2F 0C A8 00Bad Checkdigit
+2015-11-30 18:29:55,364 - server.obd - ERROR - 02 1A 72 11 00 0D F3 27 08 27 7A A8 39 71 4C FF FF 8A 49 02 52 D1 2F 0C C2 00Bad Checkdigit
+2015-11-30 18:41:18,213 - server.obd - ERROR - 02 1A 72 11 00 05 15 1D 00 1A 89 A2 3C 34 20 FF FF 8F 0A 02 2F 8B 2B 0B CC 00Bad Checkdigit
+2015-11-30 18:48:39,523 - server.obd - ERROR - 02 1A 72 11 00 0F E7 22 03 1A 89 9B 3F 4E 32 FF FF 8B 36 01 6F DC 2C 0C 06 00Bad Checkdigit
+2015-11-30 18:52:15,864 - server.obd - ERROR - 02 1A 72 11 00 04 C6 1D 00 18 8D 96 41 6D 49 FF FF 8E 00 02 3D 8B 2A 0B BD 00Bad Checkdigit
+2015-11-30 18:17:13,683 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:17:14,108 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:17:16,022 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:17:16,447 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:22:40,872 - server.obd - ERROR - 02 1A 72 11 00 04 B5 1D 00 36 6E BE 30 3B 25 FF FF 8A 00 02 8A 8B 3B 0F B0 00Bad Checkdigit
+2015-11-30 18:22:53,641 - server.obd - ERROR - 02 1A 72 11 00 04 AA 1D 00 34 6F BE 30 4A 30 FF FF 8E 00 02 91 8B 3B 0F 97 00Bad 2015-11-30 18:17:13,682 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:17:14,107 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:17:14,957 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:17:15,381 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:17:13,790 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:17:14,214 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:17:13,745 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:17:14,150 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:17:17,412 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:17:17,814 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:17:22,109 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:17:22,511 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:17:27,815 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:17:28,224 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:17:13,773 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:17:14,198 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:17:13,763 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:17:14,187 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:19:25,769 - server.obd - ERROR - 02 1A 72 11 00 04 EC 1D 00 5D 59 B6 33 7E 55 FF FF 8E 00 02 E4 8B 45 11 8F 00Bad Checkdigit
+2015-11-30 18:22:48,166 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:22:48,588 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:22:56,663 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:22:57,086 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:23:12,425 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:23:12,848 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:23:18,591 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:23:19,014 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:17:13,735 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:17:14,159 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:17:13,794 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:17:14,219 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:17:55,148 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:17:55,571 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:18:00,189 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:18:00,612 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:18:09,777 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:18:10,199 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:18:17,053 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:18:17,476 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
+2015-11-30 18:17:13,761 - server.obd - ERROR - Sent FE 04 FF FF but received no echo or response >
+2015-11-30 18:17:14,185 - server.obd - ERROR - Sent 72 05 00 F0 99 but received no echo or response >
